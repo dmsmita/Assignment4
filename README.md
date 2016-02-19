@@ -1,10 +1,12 @@
 # assignment4
 
-FIXME: Write a one-line description of your library/project.
+FIXME:  Implement the Tick-tack-toe game as described at:
+http://timothypratley.blogspot.com/2015/11/curious-about-clojurescript-but-not.html in ClojureScript
+to run in a web browser.
 
 ## Overview
 
-FIXME: Write a paragraph about the library/project and highlight its goals.
+FIXME: 
 
 ## Setup
 
